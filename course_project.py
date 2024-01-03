@@ -89,9 +89,7 @@ class YaUploader:
 
 
 if __name__ == '__main__':
-    access_token = 'vk1.a.e8BGn1pwaHqmuTENLG57HJiTyZ5Eu9n-4sYRCKATTZdDkDKT5Qeui3oTjGt_3rycj5RurXEJOPW5-' \
-                   '3fweZazo7Wmdy19sqa9uBd-Xz6q-rV3uj4g5jVhjEofE-' \
-                   '4GKKTJJMVsTbVnf_380yCXkdXco7AqsrM2xsTLY7qKl8o5LiLBHOX7nlnL_R92E8B7jihPQ2I7OEVIuUZ9-0ZmP8mTFg'
+    access_token = ''
     user_id = input('Ввидите ID: ')
     number_photo = int(input('Сколько фото вы хотите скачать? '))
     yandex_token =
